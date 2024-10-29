@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/jeromeclinton/Portfolio_website/static/css/main.cfe03530.css",
+    "main.js": "/jeromeclinton/Portfolio_website/static/js/main.7d1ef621.js",
+    "static/media/about.png": "/jeromeclinton/Portfolio_website/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/jeromeclinton/Portfolio_website/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/resume.jpg": "/jeromeclinton/Portfolio_website/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/usePopcorn.jpg": "/jeromeclinton/Portfolio_website/static/media/usePopcorn.d2ea89233db434f2c95e.jpg",
+    "static/media/Screenshot 2024-10-28 164601.jpg": "/jeromeclinton/Portfolio_website/static/media/Screenshot 2024-10-28 164601.273a2806f30b08e1b019.jpg",
+    "static/media/dojo_blog.jpg": "/jeromeclinton/Portfolio_website/static/media/dojo_blog.3400dbab1f30a4171737.jpg",
+    "index.html": "/jeromeclinton/Portfolio_website/index.html",
+    "main.cfe03530.css.map": "/jeromeclinton/Portfolio_website/static/css/main.cfe03530.css.map",
+    "main.7d1ef621.js.map": "/jeromeclinton/Portfolio_website/static/js/main.7d1ef621.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfe03530.css",
+    "static/js/main.7d1ef621.js"
+  ]
+}
